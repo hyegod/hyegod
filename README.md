@@ -8,5 +8,5 @@
 - 💬 Ask me about daily life
 - 📫 How to reach me: godfarreliotn@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Waiting 
+- ⚡ Fun fact: I'm Waiting For Her To Come To Me
 
