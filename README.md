@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi There 👋
 
-<!--
-**groovv/groovv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My Name Is GodLift FarreLio
+- I'm 17 y.o
+- I Live In Indonesia
+- I Really Like Techno
+- I’m currently learning Python
+- 💬 Ask me about daily life
+- 📫 How to reach me: godfarreliotn@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm Waiting 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
