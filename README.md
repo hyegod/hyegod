@@ -7,6 +7,6 @@
 - I’m currently learning Python
 - 💬 Ask me about daily life
 - My Hobby Is Playing Music
-- 📫 How to reach me: godfarreliotn@gmail.com
+- 📫 How to reach me: godliftmailbox@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Waiting For Her To Come To Me
